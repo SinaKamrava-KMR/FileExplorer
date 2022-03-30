@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileExplorer</string>
+    <string name="open_drawer">open navigation drawer</string>
+    <string name="close_drawer">close navigation drawer</string>
+</resources>
