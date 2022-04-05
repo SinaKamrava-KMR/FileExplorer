@@ -8,15 +8,16 @@
     <ImageView
         android:id="@+id/img_option"
         android:src="@drawable/ic_details"
-        android:padding="8dp"
-        android:layout_width="60dp"
-        android:layout_height="60dp"/>
+        android:padding="12dp"
+        android:layout_gravity="center_vertical"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
 
     <TextView
         android:id="@+id/txt_option"
         android:text="Details"
         android:textColor="@color/white"
-        android:textSize="26sp"
+        android:textSize="20sp"
         android:gravity="center_vertical"
         android:layout_marginLeft="10dp"
         android:singleLine="true"
